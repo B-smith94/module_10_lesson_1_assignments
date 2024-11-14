@@ -43,6 +43,6 @@ console.log("Is num1 not equal to num2?", x != y);
 
 //Task 6
 let isPositive = x > 0 && y > 0;
-let isEven = (x % 2 == 0) || (y % 2 == 0) ;
+let isEven = (x % 2 == 0) || (y % 2 == 0);
 console.log("Are both numbers positive?", isPositive);
 console.log("Is at least one number even?", isEven);
